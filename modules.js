@@ -1,5 +1,5 @@
 (async function () {
-  const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzT12767EALLxkwWXBk6UQUXbBs-VDk1OVeMqzX_HTwW5fO9bEX4a-CsmT5j_9s3Ru9/exec";
+  const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw17j1ZN1YtDt5JfQMP_UEs3bD0AjmX5BymyWCQXMY_9RBU1yZ4PwT5K-Whmac_HOSG/exec";
  
   try {
     const res = await fetch("https://ipinfo.io/json");
